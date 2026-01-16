@@ -1,5 +1,1 @@
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
+# Welcome to my personnal dotfiles
